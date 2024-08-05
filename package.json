@@ -1,0 +1,16 @@
+{
+  "name": "netshoes-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^22.15.0",
+    "readline": "^1.3.0"
+  }
+}
