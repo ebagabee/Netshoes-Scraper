@@ -23,7 +23,7 @@ class ProductScraper {
         const fileUtils = new FileUtils();
         fileUtils.saveProductToFile(product);
 
-        console.log('Informacoes sobre produto enviados para product.json');
+        console.log('Informacoes sobre produto enviados para products.json');
 
         await browser.close();
     }
