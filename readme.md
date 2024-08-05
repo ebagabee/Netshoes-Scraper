@@ -44,7 +44,7 @@ node index.js
 Ou: 
 
 ```bash
-node index.js
+npm run start
 ```
 
 2. **Digite a URL do produto:**
